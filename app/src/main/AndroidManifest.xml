@@ -21,6 +21,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".information_board.I_search"></activity>
+        <activity android:name=".information_board.I_writing"></activity>
     </application>
 
 </manifest>
