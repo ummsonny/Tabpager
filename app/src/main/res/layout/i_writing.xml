@@ -9,7 +9,7 @@
         android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="하고 싶은 이야기 씨부리기"
+        android:text="하고 싶은 이야기 해봐라"
         android:textSize="20dp"
         android:gravity="center"
         app:layout_constraintStart_toStartOf="parent"
