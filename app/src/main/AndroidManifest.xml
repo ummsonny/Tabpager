@@ -20,6 +20,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <activity android:name=".information_board.I_search"></activity>
         <activity android:name=".information_board.I_writing"></activity>
     </application>
